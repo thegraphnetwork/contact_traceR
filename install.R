@@ -31,3 +31,4 @@ clock
 charlatan
 preferably
 tidyverse
+ggtext
